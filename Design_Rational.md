@@ -22,6 +22,15 @@ This is a only a front-end, so I built it around one user working in one browser
 
 Attachments are limited to 1 MB because they are converted and stored in browser storage. The app does not currently include accounts, shared team data, editing, or deleting posts.
 
+
+## Estimated Time Spent
+
+* Planning, setup, and initial layout: about 2 hours
+* Update form, feed, and styling: about 11 hours
+* Search, filters, saved updates, attachments, and testing: about 9 hours
+* Documentation, GitHub, and deployment: about 2 hours
+
+
 ## Future Improvements
 
 A future version could add user accounts, a shared database, cloud file storage, editing and deleting posts, and pinned updates. It could also include image previews, daily update summaries, notifications, and team permissions.
