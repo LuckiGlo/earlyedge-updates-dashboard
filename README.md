@@ -57,3 +57,8 @@ Attachments are limited to 1 MB so they can be stored safely in browser storage.
 
 I used ChatGPT, Gemini, and VS Code AI suggestions as learning and debugging tools. They helped me understand React concepts, troubleshoot errors, and break features into smaller steps. I built, adjusted, tested, and styled the project myself while learning the process.
 
+## Live Links
+
+Live Demo: https://earlyedge-updates-dashboard.vercel.app
+
+GitHub Repository: https://github.com/LuckiGlo/earlyedge-updates-dashboard
