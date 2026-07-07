@@ -108,7 +108,7 @@ function App() {
         </form>
       </section>
       <h2>Edge MVP Updates</h2>
-      <select name="filter" vlaue={filterCat} onChange={(event) => setFilterCat(event.target.value)}>
+      <select name="filter" value={filterCat} onChange={(event) => setFilterCat(event.target.value)}>
         <option value="all">All</option>
         <option value="team">Team</option>
         <option value="research">Research</option>
